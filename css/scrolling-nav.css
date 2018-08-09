@@ -25,3 +25,15 @@ section {
 h2 {
 	text-align: center;
 }
+
+.iframe{
+  height: 600px;
+}
+
+.carousel-inner{
+  max-height: 500px;
+}
+
+.carousel-indicators:hover{
+  cursor: pointer;
+}
